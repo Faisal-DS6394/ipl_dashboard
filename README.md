@@ -20,3 +20,6 @@ Source : Kaggle.com
 > Trend Identification : Businesses use dashboard to forecast market trends. The IPL dashboard identifies season trends,helping teams porepare better for future matches.
 > Resource Optimization : Just as a company optimizes resources like budget and manpower,teams can use dashboard insights to manage players and strategies effectively.
 > Visualization for clarity : Visuals tools in both business and IPL dashboards simplify complex data making it easier for stakeholders to make informedn descisions quickly.
+
+# Screenshots / Demos
+![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard.png)
