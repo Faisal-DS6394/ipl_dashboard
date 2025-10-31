@@ -23,3 +23,5 @@ Source : Kaggle.com
 
 # Screenshots / Demos
 ![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard.png)
+![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard2.png)
+![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboar3.png)
