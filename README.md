@@ -22,6 +22,5 @@ Source : Kaggle.com
 > Visualization for clarity : Visuals tools in both business and IPL dashboards simplify complex data making it easier for stakeholders to make informedn descisions quickly.
 
 # Screenshots / Demos
-![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard.png)
-![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard2.png)
-![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboar3.png)
+![Dashboard Preview](https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard.png,https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard2.png,https://github.com/Faisal-DS6394/ipl_dashboard/blob/main/ipl_dahboard3.png)
+
