@@ -1,8 +1,8 @@
-# IPL Performence Analysis 
-* It is a dashboard realeted to Indian Premier League (IPL) tournament season between 20008 and 2025 that displays key statistics and insights based on performence.
+# IPL Performence Analysis (2008 to 2025) 
+* It is a dashboard realeted to Indian Premier League (IPL) tournament season between 2008 and 2025 that displays key statistics and insights based on performence.
 
 # Short Descriptive / Purpose
-* Ipl performence dashboard is a visually engaging and analytical Power BI report designed to help explore and compare team perfomencebased on IPL tournament season between 2008 and 2025. It helps analyze team and player performance,match outcomes, and season trends. The dashboard includes Match Overview, Team Performance, Player Statistics, Season insights with Interactive Visuals.
+* Ipl performence dashboard is a visually engaging and analytical Power BI report designed to help explore and compare team perfomence based on IPL tournament season between 2008 and 2025. It helps analyze team and player performance,match outcomes, and season trends. The dashboard includes Match Overview, Team Performance, Player Statistics, Season insights with Interactive Visuals.
 
 # Tech Stack
 The dashboard was built using the following tools and technologies:
