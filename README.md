@@ -1,5 +1,5 @@
 # ipl_dashboard 
-* It is a dashboard realeted to Indian Premier League (ipl) tournament season between 20008 and 2025 that displays key statistics and insights based on performence.
+* It is a dashboard realeted to Indian Premier League (IPL) tournament season between 20008 and 2025 that displays key statistics and insights based on performence.
 
 # Short Descriptive / Purpose
 * Ipl analytics dashboard is a visually engaging and analytical Power BI report designed to help explore and compare team perfomencebased on IPL tournament season between 20008 and 2025. It helps analyze team and player performance,match outcomes, and season trends. The dashboard includes Match Overview, Team Performance, Player Statistics, Season insights with Interactive Visuals.
