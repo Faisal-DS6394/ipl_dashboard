@@ -1,4 +1,4 @@
-# IPL Performence Analysis (2008 to 2025) 
+# IPL Player Performence Analysis (2008 to 2025) 
 * It is a dashboard realeted to Indian Premier League (IPL) tournament season between 2008 and 2025 that displays key statistics and insights based on performence.
 
 # Short Descriptive / Purpose
