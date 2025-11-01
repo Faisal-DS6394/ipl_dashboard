@@ -1,4 +1,4 @@
-# ipl_dashboard 
+# IPL Performence Analysis 
 * It is a dashboard realeted to Indian Premier League (IPL) tournament season between 20008 and 2025 that displays key statistics and insights based on performence.
 
 # Short Descriptive / Purpose
